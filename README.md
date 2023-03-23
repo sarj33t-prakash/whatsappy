@@ -17,7 +17,7 @@ Repository Hosted: Github (Dockerfile setup is need to build Docker Image - CI/C
 
 Application Deployment: Docker Container using back4app (I used to prefer *Heroku* but since it is now Paid Service, you need to link a credit card/ Payment method in your Account for purchasing Eco dynos)
 
-WhatsApp WebApp (Bot) is up & serving: https://whatsappy-sarjeetsandhu.b4a.run/sms
+WhatsApp WebApp (Bot) is up & serving: https://whatsappy-sarjeetsandhu.b4a.run/
 
 My Another Whatsapp Bot with Additional Features is hosted here: https://whatsapp-sarj33t.b4a.run 
 
