@@ -11,7 +11,7 @@ For an instance, if you want to ask this bot an image response (using openAi Ima
 
 !ask YOUR QUERY - Ask a normal chat-flow query to ChatGPT (basically returns text based conversation outputs, includes links to webpages, images, blogs, so on)
 
-WhatsApp API : Twilio
+WhatsApp API : Twilio (an API which provides bi-directional communication flow)
 
 Repository Hosted: Github (Dockerfile setup is need to build Docker Image - CI/CD) 
 
