@@ -1,5 +1,10 @@
 # WhatsApp Twilio Bot
 
+#### NOTE: In order to compile and run this project after cloning, you need to create an .env file with below key value pairs:
+#### OPEN_AI_KEY = "YOUR_OPEN_AI_KEY_VALUE_HERE"
+#### TWILIO_AC_SID = "TWILIO_ACCOUNT_SID_HERE"
+#### TWILIO_AUTH_TOKEN = "TWILIO_AUTH_TOKEN_HERE"
+
 There are few tech behind the scene when I posted the YouTube Link. Here’s a bit descriptive text to give an overall idea what actually have I done so far and how them things goes on:
 
 ##### Programming Language: Python3
